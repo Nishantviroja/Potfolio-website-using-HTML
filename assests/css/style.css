@@ -1250,6 +1250,14 @@ form .button-area{
 .footer .box-container .box a:hover{
   color: #ffae00;
 }
+.footer .box-container .box a{
+  
+  color:#ffffff;
+  
+}
+.footer .box-container .box a:hover{
+  color:#ffffff;
+}
 .footer .box-container .box .share{
   display: flex;
   flex-wrap: wrap;
